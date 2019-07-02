@@ -28,4 +28,4 @@ pull : git pull origin master
 
 
 ## 기능 목록
-1. 스파링 싫어요
+1. 스파링 싫은데 좋아요
