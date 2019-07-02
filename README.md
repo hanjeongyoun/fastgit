@@ -14,3 +14,12 @@ pull (원격 저장소의 데이터 가져오기)
 삭제 : rm -rf 폴더명/
 
 현재폴더에 clone : git clone 원격저장소url . (마지막에 '.' 을 넣으면됨)
+
+
+commit : git commit -m "커밋 내용"
+
+push : git push origin master (master:브랜치명)
+
+상위폴더이동 : cd ../
+
+pull : git pull origin master
