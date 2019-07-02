@@ -3,6 +3,7 @@
 git study 
 
 init
+add (add . 마지막에 .넣으면 전체 파일 add)
 commit
 remote
 push
@@ -21,5 +22,9 @@ commit : git commit -m "커밋 내용"
 push : git push origin master (master:브랜치명)
 
 상위폴더이동 : cd ../
+상위타 폴더 이동 : cd ../blah~
 
 pull : git pull origin master
+
+
+## 기능 목록
